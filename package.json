@@ -12,8 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "bluemix": "^1.0.4",
+    "extract-text-webpack-plugin": "^3.0.1",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "react-style-webpack-plugin": "^0.4.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",

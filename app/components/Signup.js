@@ -16,8 +16,8 @@ export default class Signup extends React.Component {
                                 <br/>
                                 We'll Follow Your Tickets. </h1>
                             </div>
-                            <div class="btns">
-                                <a class="btn btn-inverse" href="#">Signup</a>
+                            <div className="btns">
+                                <a className="btn btn-inverse" href="#">Signup</a>
                             </div>
                         </div>
                     </div>
